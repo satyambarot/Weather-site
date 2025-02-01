@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import cloud from "../image/Clouds.png"
 import rain from "../image/Rain.png"
 import mist from "../image/mist.png"
-import clear from "../image/clear.png"
+import clear from "../image/Clear.png"
 import err from "../image/error.png"
 function Myapp() {
   const [search, setSearch] = useState("");
